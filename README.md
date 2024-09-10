@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sadeheden
+- 👋 Hi, I’m @edenVerse
 - 👀 I’m interested in code 🤖🤓👾
 - 🌱 I’m currently learning computer engineering and languages C#,JS,SQL.. 🫠
 - 💞️ I’m looking to collaborate on intresting projects 😊
