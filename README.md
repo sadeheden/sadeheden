@@ -1,8 +1,7 @@
-- 👋 Hi, 
-- 👀 I’m interested in code 🤖🤓👾
-- 🌱 I’m currently learning computer engineering and languages C#,JS,SQL.. 🫠
-- 💞️ I’m looking to collaborate on intresting projects 😊
-- 📫 You can reach me here 
-- 😄 Pronouns: she/her 🧜‍♀️👸
-- ⚡ Fun fact: Love to learn and develop 🦖
+Hi i'm Eden
 
+Software Engineer | Full-Stack Developer | SAP consultant
+
+I build practical, efficient solutions using React, Node.js, and C#. Passionate about creating projects that solve real problems and improve user experiences.
+
+Open to opportunities to contribute to innovative projects.
